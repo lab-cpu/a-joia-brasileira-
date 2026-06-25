@@ -1,0 +1,6 @@
+{
+  "name": "Neymar Jr - Fan Portal",
+  "description": "Um portal interativo e premium dedicado ao craque Neymar Jr, com história, estatísticas interativas, quiz, jogo de pênalti e frases marcantes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
